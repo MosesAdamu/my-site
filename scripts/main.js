@@ -1,4 +1,4 @@
-
+<script>
 var x = 0;
 var y = 0;
 var z = 0;
@@ -56,3 +56,4 @@ myBsc.onclick = function() {
       myBsc.setAttribute ('src',image7);
         }
 }
+</script>
