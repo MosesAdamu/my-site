@@ -1,0 +1,67 @@
+
+body  {
+    	background-image: url("images/again.png"); 
+    	box-sizing: border-box;
+		background-size: 100% 100%;   
+			}
+
+
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 10px;
+    float: right;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #00000;
+    
+}
+
+
+
+.style2 {
+	font-size: 12px;	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.style3 {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+}
+.style3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.style4 {
+	font-size: 14px;
+	text-align: center;
+}
+.stylefor {
+	text-align: right;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.middleheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.middleheaderr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:  #f5eef8;
+	
+}
+
+
+
+
